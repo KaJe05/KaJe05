@@ -4,7 +4,7 @@
 
 ## Hi 👋, I'm Jake
 ### 💻 Feeling Developer  
-### 🚀 Building anything I can imagine
+### 🚀 Building anything AI can't imagine whaahahha
 
 </div>
 
