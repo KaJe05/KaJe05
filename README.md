@@ -33,8 +33,8 @@
 
 Obligation Request Voucher Management System for LGUs
 
-<a href="https://github.com/KaJe05/ORVSystem">
-  🔗 View Repository
+<a href="[https://github.com/KaJe05/ORVSystem](https://orvsystem-kaje.great-site.net/)">
+  🔗 View ORVSystem
 </a>
 
 </div>
