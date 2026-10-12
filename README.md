@@ -31,7 +31,7 @@
 
 ### ORVSystem
 
-Obligation Request Voucher Management System for LGUs
+Obligation Request Voucher System for LGUs
 
 🔗 [View ORVSystem](https://orvsystem-kaje.great-site.net/)
 
